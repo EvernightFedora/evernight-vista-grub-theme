@@ -31,12 +31,6 @@ terminal-border: "0"
   selected_item_pixmap_style = "select_*.png"
 }
 
-+ image {
-  top = 0%
-  left = 0%
-  file = "info.png"
-}
-
 # Show a countdown message using the label component
 + label {
   top = 83%
